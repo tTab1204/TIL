@@ -9,6 +9,7 @@ jbranchaud/til 를 참고했습니다. 모든 문서들은 [블로그](https://v
 - [Web](#Web)
 - [Data Structures / Algorithm](#data-structures--algorithm)
 - [Problem Solving](#problem-solving)
+- [Operating System][#OS]
 ### Javascript
 - [var, let, const](https://velog.io/@ken1204/let-const-%ED%82%A4%EC%9B%8C%EB%93%9C%EC%99%80-%EB%B8%94%EB%A1%9D-%EB%A0%88%EB%B2%A8-%EC%8A%A4%EC%BD%94%ED%94%84-15)
 - [this](https://velog.io/@ken1204?tag=this)
@@ -38,6 +39,10 @@ jbranchaud/til 를 참고했습니다. 모든 문서들은 [블로그](https://v
 - [양방향 연결 리스트(Doubly Linked List)](https://velog.io/@ken1204/Doubly-Linked-List)
 - [재귀(Recursion)](https://velog.io/@ken1204/JS-%EC%9E%AC%EA%B7%80)
 - [Set](https://velog.io/@ken1204/Set-06)
+
+### OS
+- [운영체제 강의 정리](https://velog.io/@ken1204?tag=%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
+- [리눅스 명령어](https://velog.io/@ken1204/%EB%A6%AC%EB%88%85%EC%8A%A4-%EB%AA%85%EB%A0%B9%EC%96%B4)
 
 
 ### [Problem Solving](https://github.com/tTab1204/LeetCode/tree/main/%EC%A3%BC%EC%98%81)
