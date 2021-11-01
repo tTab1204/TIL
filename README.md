@@ -26,5 +26,12 @@ jbranchaud/til 를 참고했습니다. 모든 문서들은 [블로그](https://v
 - [이벤트 루프, 태스크 큐](https://velog.io/@ken1204/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84)
 - [이벤트 버블링, 캡쳐, 위임](https://velog.io/@ken1204/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%B2%84%EB%B8%94%EB%A7%81-%EC%BA%A1%EC%B3%90-%EC%9C%84%EC%9E%84)
 
+### Data Structures / Algorithm
+- [이진 탐색(Binary Search)](https://velog.io/@ken1204/%EC%9D%B4%EC%A7%84-%EA%B2%80%EC%83%89-Binary-Search
+- [우선순위 큐(Priority Queue), 힙(Heap)](https://velog.io/@ken1204/%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%ED%81%90Priority-Queue-%ED%9E%99Heap)
+- [큐(Queue)](https://velog.io/@ken1204/%ED%81%90-4)
+- [다이나믹 프로그래밍(Dynammic Programming)](https://velog.io/@ken1204/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DDP)
+- [스택(Stack)](https://velog.io/@ken1204/%EC%8A%A4%ED%83%9D-Stack)
+
 
 ### [Problem Solving](https://github.com/tTab1204/LeetCode/tree/main/%EC%A3%BC%EC%98%81)
