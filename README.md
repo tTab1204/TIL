@@ -33,8 +33,8 @@ jbranchaud/til 를 참고했습니다. 모든 문서들은 [블로그](https://v
 - [큐(Queue)](https://velog.io/@ken1204/%ED%81%90-4)
 - [다이나믹 프로그래밍(Dynammic Programming)](https://velog.io/@ken1204/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DDP)
 - [스택(Stack)](https://velog.io/@ken1204/%EC%8A%A4%ED%83%9D-Stack)
-- [Singly Linked List](https://velog.io/@ken1204/JS-%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8-Linked-List)
-- [Doubly Linked List](https://velog.io/@ken1204/Doubly-Linked-List)
+- [단방향 연결 리스트(Singly Linked List)](https://velog.io/@ken1204/JS-%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8-Linked-List)
+- [양방향 연결 리스트(Doubly Linked List)](https://velog.io/@ken1204/Doubly-Linked-List)
 - [재귀(Recursion)](https://velog.io/@ken1204/JS-%EC%9E%AC%EA%B7%80)
 - [Set](https://velog.io/@ken1204/Set-06)
 
