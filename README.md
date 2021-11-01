@@ -7,6 +7,7 @@ jbranchaud/til 를 참고했습니다. 모든 문서들은 [블로그](https://v
 ### [TIL](https://velog.io/@ken1204)
 - [Javascript](#Javascript)
 - [Web](#Web)
+- [Data Structures / Algorithm](#Data Structures / Algorithm)
 ### Javascript
 - [var, let, const](https://velog.io/@ken1204/let-const-%ED%82%A4%EC%9B%8C%EB%93%9C%EC%99%80-%EB%B8%94%EB%A1%9D-%EB%A0%88%EB%B2%A8-%EC%8A%A4%EC%BD%94%ED%94%84-15)
 - [this](https://velog.io/@ken1204?tag=this)
