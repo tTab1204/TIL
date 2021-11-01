@@ -30,9 +30,9 @@ jbranchaud/til 를 참고했습니다. 모든 문서들은 [블로그](https://v
 ### Data Structures / Algorithm
 - [이진 탐색(Binary Search)](https://velog.io/@ken1204/%EC%9D%B4%EC%A7%84-%EA%B2%80%EC%83%89-Binary-Search)
 - [우선순위 큐(Priority Queue), 힙(Heap)](https://velog.io/@ken1204/%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%ED%81%90Priority-Queue-%ED%9E%99Heap)
+- [스택(Stack)](https://velog.io/@ken1204/%EC%8A%A4%ED%83%9D-Stack)
 - [큐(Queue)](https://velog.io/@ken1204/%ED%81%90-4)
 - [다이나믹 프로그래밍(Dynammic Programming)](https://velog.io/@ken1204/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DDP)
-- [스택(Stack)](https://velog.io/@ken1204/%EC%8A%A4%ED%83%9D-Stack)
 - [단방향 연결 리스트(Singly Linked List)](https://velog.io/@ken1204/JS-%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8-Linked-List)
 - [양방향 연결 리스트(Doubly Linked List)](https://velog.io/@ken1204/Doubly-Linked-List)
 - [재귀(Recursion)](https://velog.io/@ken1204/JS-%EC%9E%AC%EA%B7%80)
