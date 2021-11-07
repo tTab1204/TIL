@@ -49,4 +49,6 @@
 - [Types](https://velog.io/@ken1204?tag=types)
 
 
-### [Problem Solving](https://github.com/tTab1204/LeetCode/tree/main/%EC%A3%BC%EC%98%81)
+### Problem Solving
+- [Leetcode](https://github.com/tTab1204/LeetCode/tree/main/%EC%A3%BC%EC%98%81)
+- [Programmers](https://github.com/tTab1204/Data-structures-and-Algorithms-study)
