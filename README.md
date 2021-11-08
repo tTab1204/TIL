@@ -11,7 +11,7 @@
 - [Problem Solving](#problem-solving)
 - [Operating System](#operating-system)
 - [CSS](#CSS)
-- [State Management Library](#state-managment-library)
+- [State Management Library](#State-Management-Library)
 ### Javascript
 - [var, let, const](https://velog.io/@ken1204/let-const-%ED%82%A4%EC%9B%8C%EB%93%9C%EC%99%80-%EB%B8%94%EB%A1%9D-%EB%A0%88%EB%B2%A8-%EC%8A%A4%EC%BD%94%ED%94%84-15)
 - [this](https://velog.io/@ken1204?tag=this)
