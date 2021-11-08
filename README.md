@@ -54,6 +54,7 @@
 - [Types](https://velog.io/@ken1204?tag=types)
 
 ### State Management Library
+- [Recoil vs Redux](https://velog.io/@ken1204/%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-Recoil-Redux)
 
 ### Problem Solving
 - [Leetcode](https://github.com/tTab1204/LeetCode/tree/main/%EC%A3%BC%EC%98%81)
