@@ -31,6 +31,7 @@
 - [브라우저의 작동 원리](https://velog.io/@ken1204?tag=%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98-%EC%9E%91%EB%8F%99-%EC%9B%90%EB%A6%AC)
 - [이벤트 루프, 태스크 큐](https://velog.io/@ken1204/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84)
 - [이벤트 버블링, 캡쳐, 위임](https://velog.io/@ken1204/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%B2%84%EB%B8%94%EB%A7%81-%EC%BA%A1%EC%B3%90-%EC%9C%84%EC%9E%84)
+- [FE 성능 최적화](https://velog.io/@ken1204/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-1)
 
 ### CSS
 - [CSS-in-JS](https://velog.io/@ken1204/styled-components-%EC%84%A0%EC%A0%95%EC%9D%98-%EC%9D%B4%EC%9C%A0)
