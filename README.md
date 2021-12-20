@@ -56,6 +56,7 @@
 ### Operating System
 - [운영체제 강의 정리](https://velog.io/@ken1204?tag=%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
 - [리눅스 명령어](https://velog.io/@ken1204/%EB%A6%AC%EB%88%85%EC%8A%A4-%EB%AA%85%EB%A0%B9%EC%96%B4)
+- [동기/비동기, 블로킹/논블로킹의 차이점?](https://velog.io/@ken1204/%EB%8F%99%EA%B8%B0%EB%B9%84%EB%8F%99%EA%B8%B0-%EB%B8%94%EB%A1%9C%ED%82%B9%EB%85%BC%EB%B8%94%EB%A1%9C%ED%82%B9%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 
 ### Typescript
 - [Types](https://velog.io/@ken1204?tag=types)
