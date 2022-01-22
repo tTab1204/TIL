@@ -13,6 +13,7 @@
 - [Operating System](#operating-system)
 - [CSS](#CSS)
 - [State Management Library](#State-Management-Library)
+- [도서 정리](#도서-정리)
 
 ### Web
 - [브라우저의 렌더링 과정](https://velog.io/@ken1204/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98-%EB%A0%8C%EB%8D%94%EB%A7%81-%EA%B3%BC%EC%A0%95-38)
@@ -63,6 +64,11 @@
 
 ### State Management Library
 - [Recoil vs Redux](https://velog.io/@ken1204/%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-Recoil-Redux)
+
+### 도서 정리
+- [리팩터링 2판](https://velog.io/@ken1204/series/Refactoring)
+- [HTTP 완벽 가이드](https://velog.io/@ken1204/series/HTTP-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
+
 
 ### Problem Solving
 - [Leetcode](https://github.com/tTab1204/LeetCode/tree/main/%EC%A3%BC%EC%98%81)
