@@ -25,6 +25,7 @@
 - [React vs Vue](https://velog.io/@ken1204/React-vs-Vue)
 - [웹 폰트 사용 가이드](https://velog.io/@ken1204/%EC%9B%B9-%ED%8F%B0%ED%8A%B8-%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C)
 - [Intl.DateTimeFormat ](https://succulent-action-5c0.notion.site/Intl-DateTimeFormat-552ac7e7d74e4f4cacca56eed60ab5f4)
+- [발표자료: 웹팩 이해하기.pdf](https://github.com/TEAM-tech-sharing/FE_study/files/8148457/default.pdf)
 
 ### React
 - [React Hook의 동작 방식](https://velog.io/@ken1204/React-Hook%EC%9D%98-%EB%8F%99%EC%9E%91-%EB%B0%A9%EC%8B%9D)
